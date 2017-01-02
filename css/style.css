@@ -1,0 +1,57 @@
+
+body {
+	margin: 0;
+}
+
+.stage{
+	width: 1400px;
+	height: 700px;
+	/* overflow: hidden; */
+	background-color: #141514;
+}
+
+.stage div{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.interface{
+	margin: 0;
+	width: 350px;
+	height: 700px;
+	background-color: brown;
+}
+
+.cadre_map{
+	overflow: hidden;
+	width: 980px;
+	height: 700px;
+}
+
+.grille{
+	position : relative;
+	margin: 0;
+	width: 1400px;
+	height: 1400px;
+	background-color: #141514;
+	vertical-align: top;
+}
+
+
+.colonne{
+	margin: 0;
+	padding: 0;
+}
+
+.ligne{
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	height: 70px;
+	width: 70px;
+}
+
+.personnage{
+	
+}
